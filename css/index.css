@@ -112,7 +112,6 @@ a[href] {
 a[href]:hover,
 a[href]:active {
 		text-decoration: underline;
-		text-decoration-color: white;
 }
 
 main,
@@ -231,6 +230,10 @@ header {
 }
 .nav a[href][aria-current="page"] {
 	text-decoration: underline;
+	text-decoration-color: white;
+}
+
+.nav a[href]:hover {
 	text-decoration-color: white;
 }
 
