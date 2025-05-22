@@ -1,9 +1,16 @@
 ---js
 const eleventyNavigation = {
-	key: "About",
+	key: "About Me",
 	order: 3
 };
 ---
-# About
+# About Me
 
-I am a person that writes stuff.
+The first strand of my work concerns the reality of disability. Here, I don't mean what disability is, if that implies that disability is a stable entity, or something that can be picked out by a set of necessary and sufficient conditions. Rather, I think that disability happens: dynamically, in time, and via relationships. This holds not just for disability in its practical sense of disrupted capacity, but also for disability as a social category.
+
+Right now, I'm focusing on 3 aspects.
+1. The concrete practical occurrence of disability as disrupted activity. I address how neither ability nor disability are straightforward outcomes of inherent bodily properties. No one simply *has* a disability. Disabilities are emergent effects of relationships between atypical bodies and bits and pieces of surroundings that do not afford their ways of moving and thinking (and also of the ease or unease these enabling and disabling relationships produce).
+2. Disability as a category, identity, or 'social construction'. I'm developing an approach that avoids impasses that arise when we view disability as basically natural or social, or as some combination of these two. I think that such approaches go wrong by accepting that there exist two fundamental and discrete domains, 'nature' and 'society'. I instead follow the actor-network position in which the objects of ordinary reality are emergent effects of interactions among elements of many kinds (that are not themselves simply social or natural), whose reality is a function of their associations. Disability categories neither track natural facts, nor do they straightforwardly construct their objects. They are made up of more or less stable associations among many different elements: discourses, bodies, practices, technologies, norms. Disability has many realities: no one is more real or true than any other, though we can evaluate them in terms of their effects.
+3. The role disability plays in cementing lay and philosophical understandings of the human. There is a prevailing view that disabled people lack something 'normal' humans possess. However, neither disability nor human are given by nature. They are continually articulated through practice. Practices that articulate disability as lack or dysfunction concurrently circumscribe and consolidate a domain of proper or normal humanity.
+
+The second strand of my research concerns ethics and politics. Humanist approaches based on a notion of disabled people as humans equals will struggle to resolve a basic tension: that disabled people, while understood as human in an abstract, formal, or legal sense, are also seen to lack something present in normal humans. Furthermore, many mainstream ethical approaches locate moral worth in possession of some definitively human attribute or capacity—personhood, rationality, empathy—that may disqualify certain atypical individuals from the outset. As such, I'm working on an ethical approach that doesn't assign value on the basis of a pre-established category. I start from vulnerability—as a characteristic that is ubiquitous, but always realised in specific conditions that can shelter or expose—and consider how this is distributed; how technologies, broadly construed, are involved in caring for or neglecting atypical bodies and minds; what ethical demands this entails; and how these demands can best be met. I pay particular attention to the role of biopolitical rationales in the production of harm and neglect, especially as revealed during the COVID-19 pandemic.
