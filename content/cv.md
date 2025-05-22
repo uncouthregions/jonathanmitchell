@@ -19,7 +19,7 @@ const eleventyNavigation = {
 | Degree                                                                             |          Year(s) |
 |:---------------------------------------------------------------------------------- | -----------------:|
 | *University College Dublin:*                                                        |               |
-| **PhD in Philosophy (awarded with minor typographical corrections)**               | **2013--2021** |
+| **PhD in Philosophy (awarded in 2022)**               | **2013--2021** |
 | Thesis Title: “Distributing Disability: Embodied Difference, Technology, and the Human”. |               |
 | **MA in Philosophy (First Class)**                                                 | **2011--2012** |
 | Thesis Title: “Rebellious Matter: Towards an Ontology of Embodied Difference”.           |               |
@@ -127,11 +127,7 @@ const eleventyNavigation = {
 | [British Society for Phenomenology](https://www.britishphenomenology.org.uk/)   | **2022--** |
 | [Disabled Academic Collective](https://disabledacademicco.wixsite.com/mysite/) | **2022--** |
 
-## Languages
-| Language  | Level |
-|:-------------------------------|----------|
-| English | Native speaker. |
-| French | Speak and read with basic competence (Common European Framework A2.8). |
+
 
 ## Download
-You can view and download a PDF version of this curriculum vitae by tapping [here](/attachments/JPMitchell_CV.pdf).
+You can view and download a <a href="/attachments/JPMitchell_CV.pdf">PDF version of this curriculum vitae</a>.
