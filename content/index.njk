@@ -6,13 +6,13 @@ const eleventyNavigation = {
 
 const numberOfLatestPostsToShow = 3;
 ---
-
 <h1>Hello!</h1>
-<p>I'm a philosopher and critical disability theorist. I was an [Irish Research Council Government of Ireland Postgraduate Scholar](https://research.ie/) in the University College Dublin [School of Philosophy](https://www.ucd.ie/philosophy/). I use a variety of approaches—including feminist and continental philosophy, and actor-network theory—to understand various different aspects of disability.</p>
+<p>I'm a philosopher and critical disability theorist. I was an <a href="https://research.ie/">Irish Research Council Government of Ireland Postgraduate Scholar</a> in <a href="https://www.ucd.ie/philosophy">University College Dublin School of Philosophy</a>. I use a variety of approaches—including feminist and continental philosophy, and actor-network theory—to understand various different aspects of disability.</p>
 
-<p>I'm particularly interested in the tensions that arise between everyday understandings of disability and humanness: that is, different ways disability gets articulated as a privation of or deviation from what is fully or properly human. I'm also focused on ethical approaches to disability that avoid appeals—manifest or latent—to overarching notions of humanness.</p<
+<p>I'm particularly interested in the tensions that arise between everyday understandings of disability and humanness: that is, different ways disability gets articulated as a privation of or deviation from what is fully or properly human. I'm also focused on ethical approaches to disability that avoid appeals—manifest or latent—to overarching notions of humanness.</p>
 
-<p>You can read more about me and my research [here](/about). This website is mostly somewhere to share conference and workshop papers. You can read these by tapping ['Updates'](/posts/). Some drafts contain ideas that I was developing at the time, but do not wholeheartedly subscribe to any longer. More recent works are most indicative of my current positions.</p>
+<p>This website is mostly somewhere to share conference and workshop papers. You can read these by tapping ['Updates'](/posts/). Some drafts contain ideas that I was developing at the time, but do not wholeheartedly subscribe to any longer. More recent works are most indicative of my current positions.</p>
+
 {% set postsCount = collections.posts | length %}
 {% set latestPostsCount = postsCount | min(numberOfLatestPostsToShow) %}
 <h1>Latest {{ latestPostsCount }} Post{% if latestPostsCount != 1 %}s{% endif %}</h1>
