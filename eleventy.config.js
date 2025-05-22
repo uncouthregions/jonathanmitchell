@@ -18,10 +18,10 @@ export default async function(eleventyConfig) {
 		}
 	});
 	
-	const eleventyPluginPhosphoricons = require('eleventy-plugin-phosphoricons');
-	module.exports = function (eleventyConfig) {
-    eleventyConfig.addPlugin(eleventyPluginPhosphoricons);
-};
+//	const eleventyPluginPhosphoricons = require('eleventy-plugin-phosphoricons');
+//	module.exports = function (eleventyConfig) {
+//    eleventyConfig.addPlugin(eleventyPluginPhosphoricons);
+//};
 
 	// Copy the contents of the `public` folder to the output folder
 	// For example, `./public/css/` ends up in `_site/css/`
