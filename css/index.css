@@ -217,6 +217,7 @@ header {
 	padding: 0;
 	margin: 0;
 	list-style: none;
+	font-style: strong;
 }
 .nav-item {
 	display: inline-block;
