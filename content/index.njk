@@ -7,7 +7,7 @@ const eleventyNavigation = {
 const numberOfLatestPostsToShow = 3;
 ---
 
-<h1>Hello</h1>
+<h1>Hello!</h1>
 <p>I'm a philosopher and critical disability theorist. I was an [Irish Research Council Government of Ireland Postgraduate Scholar](https://research.ie/) in the University College Dublin [School of Philosophy](https://www.ucd.ie/philosophy/). I use a variety of approaches—including feminist and continental philosophy, and actor-network theory—to understand various different aspects of disability.</p>
 
 <p>I'm particularly interested in the tensions that arise between everyday understandings of disability and humanness: that is, different ways disability gets articulated as a privation of or deviation from what is fully or properly human. I'm also focused on ethical approaches to disability that avoid appeals—manifest or latent—to overarching notions of humanness.</p<
@@ -23,7 +23,7 @@ const numberOfLatestPostsToShow = 3;
 
 {% set morePosts = postsCount - numberOfLatestPostsToShow %}
 {% if morePosts > 0 %}
-<p>{{ morePosts }} more post{% if morePosts != 1 %}s{% endif %} can be found in <a href="blog.njk">the archive</a>.</p>
+<p>{{ morePosts }} more post{% if morePosts != 1 %}s{% endif %} can be found in the <a href="blog.njk">posts sction</a>.</p>
 {% endif %}
 
 {# List every content page in the project #}
