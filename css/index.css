@@ -106,12 +106,13 @@ li {
 a[href] {
 	color: var(--text-color-link);
 }
-a[href]:visited {
-	color: var(--text-color-link-visited);
+/*a[href]:visited {
+	color: var(--text-color-link-visited);*/
 }
 a[href]:hover,
 a[href]:active {
-	color: var(--text-color-link-active);
+		text-decoration: underline;
+		text-decoration-color: white;
 }
 
 main,
@@ -202,7 +203,7 @@ header {
 }
 .home-link {
 	flex-grow: 1;
-	font-size: 1em; /* 16px /16 */
+	font-size: 1.5em; /* 16px /16 */
 	font-weight: 700;
 }
 .home-link:link:not(:hover) {
@@ -277,7 +278,7 @@ header {
 	align-items: center;
 	justify-content: center;
 	text-transform: capitalize;
-	font-style: italic;
+/*	font-style: italic;*/
 }
 .postlist-item > .post-tag {
 	align-self: center;
@@ -295,4 +296,3 @@ header {
 .post-metadata time {
 	margin-right: 1em;
 }
-
