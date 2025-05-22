@@ -35,7 +35,6 @@
 	}
 }
 
-
 /* Global stylesheet */
 * {
 	box-sizing: border-box;
@@ -230,6 +229,7 @@ header {
 }
 .nav a[href][aria-current="page"] {
 	text-decoration: underline;
+	text-underline-offset: 5%;
 	text-decoration-color: white;
 }
 
