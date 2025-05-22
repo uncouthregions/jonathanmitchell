@@ -123,12 +123,13 @@ main :first-child {
 	margin-top: 0;
 }
 
-footer {
-header {
-	border-top: 1px dashed var(--color-gray-20);}
 
 header {
 	border-bottom: 1px dashed var(--color-gray-20);
+}
+
+footer {
+	border-top: 1px dashed var(--color-gray-20);
 }
 
 #skip-link {
