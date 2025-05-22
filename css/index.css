@@ -112,10 +112,7 @@ a[href] {
 a[href]:hover,
 a[href]:active {
 		text-decoration: underline;
-}
-
-a[href]:active {
-			text-decoration-color: white;;
+		text-decoration-color: white;
 }
 
 main,
@@ -125,7 +122,6 @@ footer {
 main :first-child {
 	margin-top: 0;
 }
-
 
 header {
 	border-bottom: 1px dashed var(--color-gray-20);
@@ -235,6 +231,7 @@ header {
 }
 .nav a[href][aria-current="page"] {
 	text-decoration: underline;
+	text-decoration-color: white;
 }
 
 /* Posts list */
