@@ -218,7 +218,7 @@ header {
 .nav {
 	display: flex;
 	gap: .5em 1em;
-	padding: 0;
+	padding: 1;
 	margin: 0;
 	list-style: none;
 	font-weight: 700;
