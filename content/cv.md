@@ -1,9 +1,7 @@
 ---js
 const eleventyNavigation = {
-	key: "Curriculum Vitae",
+	key: "C.V.",
 	order: 4
-    date: 2022-07-04
-    lastmod: 2024-12-23
 };
 ---
 # Curriculum Vitae
