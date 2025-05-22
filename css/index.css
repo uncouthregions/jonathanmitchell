@@ -112,7 +112,10 @@ a[href] {
 a[href]:hover,
 a[href]:active {
 		text-decoration: underline;
-		text-decoration-color: white;
+}
+
+a[href]:active {
+			text-decoration-color: white;;
 }
 
 main,
