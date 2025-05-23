@@ -282,10 +282,15 @@ header {
 	flex-basis: calc(100% - 1.5rem);
 	padding-left: .25em;
 	padding-right: .5em;
-/*	text-underline-position: from-font;
+	text-underline-position: from-font;
 	text-underline-offset: 0.3em;
-	text-decoration-thickness: 1px;*/
+	text-decoration-thickness: 1px;
 }
+
+.postlist-link:hover {
+	text-decoration-color: red;
+	}
+
 .postlist-item-active .postlist-link {
 	font-weight: bold;
 }
