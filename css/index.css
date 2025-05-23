@@ -111,6 +111,7 @@ a[href] {
 a[href]:hover,
 a[href]:active {
 		text-decoration: underline;
+		text-underline-offset: 0.5em;
 }
 
 main,
