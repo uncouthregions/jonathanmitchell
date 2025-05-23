@@ -122,11 +122,11 @@ main :first-child {
 }
 
 header {
-	border-bottom: 1px dashed var(--color-gray-20);
+	border-bottom: 1px dashed var(--color-gray-50);
 }
 
 footer {
-	border-top: 1px dashed var(--color-gray-20);
+	border-top: 1px dashed var(--color-gray-50);
 }
 
 #skip-link {
