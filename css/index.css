@@ -235,11 +235,13 @@ header {
 .nav a[href][aria-current="page"] {
 	text-decoration: underline;
 	text-underline-offset: 0.5em;
+	text-decoration-thickness: 1px;
 	text-decoration-color: var(--color-gray-50);
 }
 
 .nav a[href]:hover {
 	text-underline-offset: 0.5em;
+	text-decoration-thickness: 1px;
 	text-decoration-color: var(--color-gray-50);
 }
 
