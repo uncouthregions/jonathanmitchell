@@ -230,12 +230,12 @@ header {
 .nav a[href][aria-current="page"] {
 	text-decoration: underline;
 	text-underline-offset: 0.5em;
-	text-decoration-color: white;
+	text-decoration-color: var(--color-gray-20);
 }
 
 .nav a[href]:hover {
 	text-underline-offset: 0.5em;
-	text-decoration-color: white;
+	text-decoration-color: var(--color-gray-20);
 }
 
 /* Posts list */
