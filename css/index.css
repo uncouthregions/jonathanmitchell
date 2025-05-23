@@ -217,6 +217,7 @@ header {
 	text-underline-offset: 0.2em;
 	text-decoration-color: var(--color-gray-50);
 }
+
 /* Nav */
 .nav {
 	display: flex;
@@ -281,9 +282,9 @@ header {
 	flex-basis: calc(100% - 1.5rem);
 	padding-left: .25em;
 	padding-right: .5em;
-	text-underline-position: from-font;
-	text-underline-offset: 0;
-	text-decoration-thickness: 1px;
+/*	text-underline-position: from-font;
+	text-underline-offset: 0.3em;
+	text-decoration-thickness: 1px;*/
 }
 .postlist-item-active .postlist-link {
 	font-weight: bold;
