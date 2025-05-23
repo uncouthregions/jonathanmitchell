@@ -111,7 +111,6 @@ a[href] {
 a[href]:hover,
 a[href]:active {
 		text-decoration: underline;
-		text-underline-offset: 0.5em;
 }
 
 main,
@@ -213,6 +212,10 @@ header {
 	text-decoration: none;
 }
 
+.home-link:hover {
+	text-decoration: underline;
+	text-underline-offset: 0.5em;
+}
 /* Nav */
 .nav {
 	display: flex;
