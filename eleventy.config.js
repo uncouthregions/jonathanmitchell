@@ -49,7 +49,7 @@ export default async function(eleventyConfig) {
 		bundleHtmlContentFromSelector: "script",
 	});
 	
-	eleventyConfig.addShortcode("year", () => `${new Date().getFullYear()}`);
+	eleventyConfig.addShortcode("year", () => `${new Date().getFullYear()}`
 	});
 
 	// Official plugins
