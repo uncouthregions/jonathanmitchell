@@ -48,9 +48,6 @@ export default async function(eleventyConfig) {
 		// supported selectors: https://www.npmjs.com/package/posthtml-match-helper
 		bundleHtmlContentFromSelector: "script",
 	});
-	
-	eleventyConfig.addShortcode("year", () => `${new Date().getFullYear()}`
-	});
 
 	// Official plugins
 	eleventyConfig.addPlugin(pluginSyntaxHighlight, {
