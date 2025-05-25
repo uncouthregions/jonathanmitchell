@@ -13,7 +13,7 @@
 	--background-color: #fdf2f0;
 
 	--text-color: var(--color-gray-90);
-	--text-color-link: #f87171;
+	--text-color-link: #082840;
 	--text-color-link-active: #5f2b48;
 	--text-color-link-visited: #17050F;
 
@@ -27,7 +27,7 @@
 		--color-gray-90: #dad8d8;
 
 		/* --text-color is assigned to --color-gray-_ above */
-		--text-color-link: red;
+		--text-color-link: F87171;
 /*		--text-color-link-active: #6969f7;
 		--text-color-link-visited: #a6a6f8;*/
 
