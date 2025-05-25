@@ -110,9 +110,8 @@ a[href] {
 /*a[href]:visited {
 	color: var(--text-color-link-visited);*/
 }
-a[href]:hover,
-a[href]:active {
-		text-decoration-color: red;
+a[href]:hover, a[href]:active {
+	text-decoration-color: red;
 }
 
 main,
