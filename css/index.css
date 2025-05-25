@@ -104,13 +104,15 @@ li {
 
 a[href] {
 	color: var(--text-color-link);
+	text-decoration: underline;
+	text-underline-offset: 0.2em;
 }
 /*a[href]:visited {
 	color: var(--text-color-link-visited);*/
 }
-a[href]:hover, a[href]:active {
+/*a[href]:hover, a[href]:active {
 		text-decoration: underline;
-}
+}*/
 
 main {
 font-size: 1.1em;
@@ -127,7 +129,6 @@ main:first-child {
 main a[href]:hover, footer a[href]:hover {
 		text-decoration: underline;
 		text-decoration-color: red;
-		text-underline-offset: 0.2em;
 }
 
 header {
