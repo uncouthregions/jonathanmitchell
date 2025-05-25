@@ -105,7 +105,7 @@ li {
 a[href] {
 	color: var(--text-color-link);
 	text-decoration: underline;
-	text-underline-offset: 0.2em;
+	text-underline-offset: 0.1em;
 }
 
 /*a[href]:visited {
