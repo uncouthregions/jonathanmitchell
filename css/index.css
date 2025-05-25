@@ -104,6 +104,7 @@ li {
 
 a[href] {
 	color: var(--text-color-link);
+	text-decoration: underline;
 }
 /*a[href]:visited {
 	color: var(--text-color-link-visited);*/
