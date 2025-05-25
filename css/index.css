@@ -108,8 +108,7 @@ a[href] {
 /*a[href]:visited {
 	color: var(--text-color-link-visited);*/
 }
-a[href]:hover,
-a[href]:active {
+a[href]:hover, a[href]:active {
 		text-decoration: underline;
 }
 
@@ -119,6 +118,11 @@ footer {
 }
 main:first-child {
 	margin-top: 0;
+}
+
+main a[href]:hover, a[href]:active {
+		text-decoration: underline;
+		text-decoration-color: red;
 }
 
 header {
