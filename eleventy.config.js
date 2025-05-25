@@ -81,6 +81,12 @@ export default async function(eleventyConfig) {
 			}
 		}
 	});
+	
+	// Show Year: https://stackoverflow.com/questions/70987695/11ty-how-do-i-display-post-page-year
+	eleventyConfig.addFilter("justYear", (dateString) => {
+    dateObj = new Date(dateString);
+    return DateTime.fromJSDate(dateObj, { zone: 'utc' }).toFormat('yyyy');
+});
 
 	// Image optimization: https://www.11ty.dev/docs/plugins/image/#eleventy-transform
 	eleventyConfig.addPlugin(eleventyImageTransformPlugin, {
