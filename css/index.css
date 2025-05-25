@@ -107,9 +107,11 @@ a[href] {
 	text-decoration: underline;
 	text-underline-offset: 0.2em;
 }
+
 /*a[href]:visited {
-	color: var(--text-color-link-visited);*/
-}
+	color: var(--text-color-link-visited);
+}*/
+
 /*a[href]:hover, a[href]:active {
 		text-decoration: underline;
 }*/
