@@ -115,8 +115,7 @@ a[href]:hover, a[href]:active {
 	text-decoration-color: red;
 }
 
-main,
-footer {
+main, footer {
 	padding: 1rem;
 }
 main :first-child {
@@ -207,7 +206,7 @@ header {
 }
 .home-link {
 	flex-grow: 1;
-	font-size: 1.5em; /* 16px /16 */
+	font-size: 1.6em; /* 16px /16 */
 	font-weight: 700;
 }
 .home-link:link:not(:hover) {
