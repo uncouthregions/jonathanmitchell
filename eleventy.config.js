@@ -9,12 +9,12 @@ import footnote_plugin from 'markdown-it-footnote';
 
 /** @param {import("@11ty/eleventy").UserConfig} eleventyConfig */
 export default async function(eleventyConfig) {
-//	eleventyConfig.amendLibrary("md", (mdLib) => mdLib.use(footnote_plugin));
 	// Drafts, see also _data/eleventyDataSchema.js
 	eleventyConfig.addPreprocessor("drafts", "*", (data, content) => {
 		if(data.draft && process.env.ELEVENTY_RUN_MODE === "build") {
 			return false;
 		}
+	eleventyConfig.amendLibrary("md", (mdLib) => mdLib.use(footnote_plugin));
 	});
 
 	// Copy the contents of the `public` folder to the output folder
