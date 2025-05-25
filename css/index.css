@@ -1,7 +1,7 @@
 /* Defaults */
 :root {
 	--font-family: -apple-system, system-ui, sans-serif;
-	--font-family-monospace: Consolas, Menlo, Monaco, Andale Mono WT, Andale Mono, Lucida Console, Lucida Sans Typewriter, DejaVu Sans Mono, Bitstream Vera Sans Mono, Liberation Mono, Nimbus Mono L, Courier New, Courier, monospace;
+	--font-family-monospace: Menlo, Monaco, Lucida Console, monospace;
 }
 
 /* Theme colors */
@@ -112,6 +112,10 @@ a[href]:hover, a[href]:active {
 		text-decoration: underline;
 }
 
+main {
+font-size: 1em;
+}
+
 main,
 footer {
 	padding: 1rem;
@@ -120,7 +124,7 @@ main:first-child {
 	margin-top: 0;
 }
 
-main a[href]:hover, footer a[href]:hover, {
+main a[href]:hover, footer a[href]:hover {
 		text-decoration: underline;
 		text-decoration-color: red;
 }
