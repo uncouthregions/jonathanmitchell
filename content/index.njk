@@ -23,7 +23,9 @@ const numberOfLatestPostsToShow = 3;
 
 {% set morePosts = postsCount - numberOfLatestPostsToShow %}
 {% if morePosts > 0 %}
-<p>You can find {{ morePosts }} more post{% if morePosts != 1 %}s{% endif %} in the <a href="blog.njk">posts section</a>.</p>
+/* <p>You can read {{ morePosts }} more post{% if morePosts != 1 %}s{% endif %} in the <a href="blog.njk">posts section</a>.</p> */
+<p>You can read more in the <a href="blog.njk">posts section</a>.</p>
+
 {% endif %}
 
 {# List every content page in the project #}
