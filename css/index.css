@@ -61,7 +61,7 @@ body {
 
 /* https://www.a11yproject.com/posts/how-to-hide-content/ */
 .visually-hidden:not(:focus):not(:active) {
-	clip: rect(0 0 0 0);
+	clip: rect(0, 0, 0, 0);
 	clip-path: inset(50%);
 	height: 1px;
 	overflow: hidden;
@@ -120,7 +120,7 @@ main:first-child {
 	margin-top: 0;
 }
 
-main a[href]:hover, a[href]:active {
+main a[href]:hover, footer a[href]:hover, {
 		text-decoration: underline;
 		text-decoration-color: red;
 }
