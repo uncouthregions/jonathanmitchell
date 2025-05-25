@@ -127,6 +127,7 @@ main:first-child {
 main a[href]:hover, footer a[href]:hover {
 		text-decoration: underline;
 		text-decoration-color: red;
+		text-underline-offset: 0.1em;
 }
 
 header {
