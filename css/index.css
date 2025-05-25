@@ -319,3 +319,12 @@ header {
 .post-metadata time {
 	margin-right: 1em;
 }
+
+/* Footer */
+.credit {
+    float: left;
+}
+
+.rss { 
+    float: right;
+}
