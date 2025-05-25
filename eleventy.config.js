@@ -14,7 +14,6 @@ export default async function(eleventyConfig) {
 		if(data.draft && process.env.ELEVENTY_RUN_MODE === "build") {
 			return false;
 		}
-	eleventyConfig.amendLibrary("md", (mdLib) => mdLib.use(footnote_plugin));
 	});
 
 	// Copy the contents of the `public` folder to the output folder
@@ -57,7 +56,7 @@ export default async function(eleventyConfig) {
 	eleventyConfig.addPlugin(pluginNavigation);
 	eleventyConfig.addPlugin(HtmlBasePlugin);
 	eleventyConfig.addPlugin(InputPathToUrlTransformPlugin);
-
+	eleventyConfig.amendLibrary("md", (mdLib) => mdLib.use(footnote_plugin));
 	eleventyConfig.addPlugin(feedPlugin, {
 		type: "atom", // or "rss", "json"
 		outputPath: "/feed/feed.xml",
