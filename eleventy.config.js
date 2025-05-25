@@ -82,11 +82,6 @@ export default async function(eleventyConfig) {
 		}
 	});
 	
-	// Show Year: https://stackoverflow.com/questions/70987695/11ty-how-do-i-display-post-page-year
-	eleventyConfig.addFilter("justYear", (dateString) => {
-    dateObj = new Date(dateString);
-    return DateTime.fromJSDate(dateObj, { zone: 'utc' }).toFormat('yyyy');
-});
 
 	// Image optimization: https://www.11ty.dev/docs/plugins/image/#eleventy-transform
 	eleventyConfig.addPlugin(eleventyImageTransformPlugin, {
@@ -117,6 +112,12 @@ export default async function(eleventyConfig) {
 		// slugify: eleventyConfig.getFilter("slugify"),
 		// selector: "h1,h2,h3,h4,h5,h6", // default
 	});
+	
+		// Show Year: https://stackoverflow.com/questions/70987695/11ty-how-do-i-display-post-page-year
+	eleventyConfig.addFilter("justYear", (dateString) => {
+    dateObj = new Date(dateString);
+    return DateTime.fromJSDate(dateObj, { zone: 'utc' }).toFormat('yyyy');
+});
 
 	eleventyConfig.addShortcode("currentBuildDate", () => {
 		return (new Date()).toISOString();
