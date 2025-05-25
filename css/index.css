@@ -103,7 +103,7 @@ li {
 }
 
 a[href] {
-	color: var(--text-color-link);
+	color: red;
 }
 /*a[href]:visited {
 	color: var(--text-color-link-visited);*/
