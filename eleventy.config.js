@@ -25,18 +25,18 @@ export default async function(eleventyConfig) {
 		.addPassthroughCopy("./content/feed/pretty-atom-feed.xsl");
 		
 	// Favicon
-	const favicon = require("@saiballo/eleventy-plugin-favicon-factory");
-
+//	const favicon = require("@saiballo/eleventy-plugin-favicon-factory");
+//
 //	module.exports = function(eleventyConfig) {
-
-	eleventyConfig.addPlugin(favicon, {
-		"outputFolder": "favicon",
-		"prefixName": "favicon",
-		"imgPathHref": "",
-		"sizeList": [16, 32, 48, 57, 72, 76, 96, 114, 120, 144, 152, 180, 192, 256, 512],
-		"runOnlyDevMode": true,
-		"tabIndent": 2
-		});
+//
+//	eleventyConfig.addPlugin(favicon, {
+//		"outputFolder": "favicon",
+//		"prefixName": "favicon",
+//		"imgPathHref": "",
+//		"sizeList": [16, 32, 48, 57, 72, 76, 96, 114, 120, 144, 152, 180, 192, 256, 512],
+//		"runOnlyDevMode": true,
+//		"tabIndent": 2
+//		});
 
 	// Run Eleventy when these files change:
 	// https://www.11ty.dev/docs/watch-serve/#add-your-own-watch-targets
