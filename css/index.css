@@ -341,3 +341,8 @@ header {
 .rss { 
     float: right;
 }
+
+/* Footnotes */
+.footnotes {
+font-size: 0.9em
+}
