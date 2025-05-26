@@ -48,6 +48,7 @@
 		"zod-validation-error": "^3.4.1"
 	},
 	"dependencies": {
+		"@saiballo/eleventy-plugin-favicon-factory": "^1.0.5",
 		"@zachleat/heading-anchors": "^1.0.3",
 		"markdown-it-footnote": "^4.0.0",
 		"moment": "^2.30.1"
