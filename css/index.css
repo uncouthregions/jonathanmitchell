@@ -130,7 +130,7 @@ main:first-child {
 
 main a[href]:hover, footer a[href]:hover {
 		text-decoration: underline;
-		text-decoration-color: #7F1D1D;
+		text-decoration-color: #B91C1C;
 }
 
 header {
@@ -250,13 +250,13 @@ header {
 	text-decoration: underline;
 	text-underline-offset: 0.5em;
 	text-decoration-thickness: 2px;
-	text-decoration-color: #7F1D1D;
+	text-decoration-color: #B91C1C;
 }
 
 .nav a[href]:hover {
 	text-underline-offset: 0.5em;
 	text-decoration-thickness: 2px;
-	text-decoration-color: #7F1D1D;
+	text-decoration-color: #B91C1C;
 }
 
 /* Posts list */
@@ -301,7 +301,7 @@ header {
 }
 
 .postlist-link:hover {
-	text-decoration-color: #7F1D1D;
+	text-decoration-color: #B91C1C;
 	}
 
 .postlist-item-active .postlist-link {
