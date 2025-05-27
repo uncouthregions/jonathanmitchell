@@ -1,9 +1,9 @@
-—-js
+---js
 const eleventyNavigation = {
 	key: "C.V.",
 	order: 4
 };
-—-
+---
 # Curriculum Vitae
 **Areas of specialisation**: Continental philosophy, phenomenology, philosophy of disability, disability studies, philosophy of technology, feminist philosophy, actor-network theory, vulnerability, biopolitics, posthumanism.
 
@@ -11,24 +11,24 @@ const eleventyNavigation = {
 
 ## Current & Recent Employment
 | Role                                                                                                                |            Year(s) |
-| :————————————————————————————————————————————————————————— | ————————-: |
-| Editorial Assistant: [International Journal of Philosophical Studies](https://www.tandfonline.com/journals/riph20). |     **2022—2024** |
+| :------------------------------------------------------------------------------------------------------------------ | -----------------: |
+| Editorial Assistant: [International Journal of Philosophical Studies](https://www.tandfonline.com/journals/riph20). |     **2022–2024** |
 | Part-Time (HPAL) Lecturer (University College Dublin).                                                              | **2019**, **2023** |
-| Tutor (University College Dublin).                                                                                  |     **2012—2022** |
+| Tutor (University College Dublin).                                                                                  |     **2012–2022** |
 ## Education
 | Degree                                                                             |          Year(s) |
-|:————————————————————————————————————————— | ————————-:|
+|:---------------------------------------------------------------------------------- | -----------------:|
 | *University College Dublin:*                                                        |               |
-| **PhD in Philosophy (awarded in 2022)**               | **2013—2021** |
+| **PhD in Philosophy (awarded in 2022)**               | **2013–2021** |
 | Thesis Title: “Distributing Disability: Embodied Difference, Technology, and the Human”. |               |
-| **MA in Philosophy (First Class)**                                                 | **2011—2012** |
+| **MA in Philosophy (First Class)**                                                 | **2011–2012** |
 | Thesis Title: “Rebellious Matter: Towards an Ontology of Embodied Difference”.           |               |
 | *Queen’s University Belfast:*                                                       |               |
-| **BA (Hons) in Sociology and Politics (First Class)**                              | **2008—2011** |
+| **BA (Hons) in Sociology and Politics (First Class)**                              | **2008–2011** |
 | Dissertation Title: “Live Flesh: Materiality, Subjectivity, Agency”.                     |               |
 ## Publications
 | Title                                                                                                                                                                                                                                                      |     Year |
-| :———————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————— | ————:|
+| :---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------:|
 | Dolezal, Luna, Cathrin Fisher & Jonathan Paul Mitchell, 'Disability', in [*Routledge Handbook of Political Phenomenology*](https://www.routledge.com/The-Routledge-Handbook-of-Political-Phenomenology/Herrmann-Thonhauser-Loidolt-Matzner-Baratella/p/book/9781032054094), edited by Steffen Herrmann, Gerhard Thonhauser, Sophie Loidolt, Tobias Matzner, Nils Baratella. London: Routledge, 2024. | **2024** |
 | Käll, Lise Folkmarson, Jonathan Paul Mitchell & Tobias Skiveren. [“Editors' Introduction: Disability and Protheses”](https://tidsskrift.dk/KKF/article/view/127868). *Women, Gender & Research* 31, no. 2 (2021): 5-9.                                                                                            | **2021** |
 | Mitchell, Jonathan Paul. [“Unsafe Ground: Technology, Habit, and the Enactment of Disability”](https://tidsskrift.dk/KKF/article/view/127873). *Women, Gender & Research* 31, no. 2 (2021): 24–39.                                                                                                                | **2021** |
@@ -37,27 +37,27 @@ const eleventyNavigation = {
 
 ## Awards
 | Award                                                                                               |          Year(s) |
-| :—————————————————————————————————————————————————- | ——————-:|
+| :--------------------------------------------------------------------------------------------------- | -------------:|
 | Nomination for Dr Máire de Paor Award (best PhD thesis in UCD College of Social Sciences and Law). | **2022** | 
-| Irish Research Council, Government of Ireland Postgraduate Scholarship.                              | **2013—2016** |
-| ESB–Universities Ireland, North/South Postgraduate Scholarship.                                      | **2011—2012** |
+| Irish Research Council, Government of Ireland Postgraduate Scholarship.                              | **2013–2016** |
+| ESB–Universities Ireland, North/South Postgraduate Scholarship.                                      | **2011–2012** |
 | Undergraduate Awards, ‘Social Studies' category: Overall Winner.                                     |      **2011** |
 | Undergraduate Awards, 'Politics and International Relations' category: Highly Commended (runner-up). |      **2011** |
 | *Queen’s University Belfast, School of Sociology, Social Policy and Social Work:*                    |               |
-| Eithne McLaughlin Prize (best work on disability).                                                          |      **2011** |
+| Eithne McLaughlin Prize (best work on disability).                                                  |      **2011** |
 | *Queen’s University Belfast, School of Politics, International Studies and Philosophy:*              |               |
 | David Mulholland Prize (best performance in dissertation).                                           |      **2011** |
 | Foundation Scholarship.                                                                              |      **2010** |
 | Foundation Scholarship.                                                                              |      **2009** |
 
-<!—## Forthcoming Activities
+<!--## Forthcoming Activities
 | Activity                                                                                                              |          Year(s) |
-|:——————————————————————————————————————————————————————————- | ——————-:|
- —>
+|:--------------------------------------------------------------------------------------------------------------------- | -------------:|
+ -->
 
 ## Conference & Workshop Presentations
 | Title & Event                                                                                                                |     Year(s) |
-| :—————————————————————————————————————————————————————————————— | ————:|
+| :---------------------------------------------------------------------------------------------------------------------------- | --------:|
 | **Cripping Social Encounters** | **2024** |
 | *Imagining Technologies for Disability Futures Symposium, University of Leeds, 26-27 April 2024.* | |
 | **Invited Respondent** |     **2024** |
@@ -89,7 +89,7 @@ const eleventyNavigation = {
 
 ## Teaching Experience
 | Position                                                                                              |  Year(s) |
-| :—————————————————————————————————————————————————— | ———-: |
+| :---------------------------------------------------------------------------------------------------- | -------: |
 | **Part-Time (HPAL) Lecturer (University College Dublin) 2019, 2023**                                  |          |
 | Guest Lecture 'What Can a Body Do?' on Philosophy of Disability (Level 2 Module 'Mind, Body & World') | **2023** |
 | Guest Lecture on Phenomenology and Disability (Level 2 module ‘Phenomenology and Existentialism’)     | **2019** |
@@ -105,10 +105,10 @@ const eleventyNavigation = {
 
 ## Other Academic Experience & Citizenship
 | Activity                                                                                                                                                                                                                  |        Year(s) |
-| :———————————————————————————————————————————————————————————————————————————————————————————————————————————— | ——————-: |
-| [Minorities and Philosophy (UCD Chapter)](https://www.ucd.ie/philosophy/study/minoritiesandphilosophymapdublinchapter/): Committee Member & Accessibility Co-ordinator.                                                   | **2021—2022** |
+| :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | -------------: |
+| [Minorities and Philosophy (UCD Chapter)](https://www.ucd.ie/philosophy/study/minoritiesandphilosophymapdublinchapter/): Committee Member & Accessibility Co-ordinator.                                                   | **2021–2022** |
 | Co-organiser: [*Imagining Technologies for Disability Futures*](https://itdfproject.org/) panel, 'Phenomenology, Disability, and Technology', at 2022 British Society for Phenomenology conference, University of Exeter. |       **2022** |
-| Co-editor: special issue of *Women, Gender & Research*, [‘Interrogating Disability and Prostheses’](https://tidsskrift.dk/KKF/issue/view/8124).                                                                           | **2019—2021** |
+| Co-editor: special issue of *Women, Gender & Research*, [‘Interrogating Disability and Prostheses’](https://tidsskrift.dk/KKF/issue/view/8124).                                                                           | **2019--2021** |
 | Conference assistant: [*The Inhuman Gaze*](https://theinhumangaze.com/), Centre Culturel Irlandais, Paris.                                                                                                                |       **2018** |
 | Peer reviewer: *Hypatia*.                                                                                                                                                                                                 |       **2016** |
 | Peer reviewer: *Somatechnics*.                                                                                                                                                                                            |       **2014** |
@@ -116,16 +116,16 @@ const eleventyNavigation = {
 | Alumnus judge: [*Undergraduate Awards*](https://undergraduateawards.com/).                                                                                                                                                |       **2013** |
 | Indexer: Giffney, N. & Shildrick, M. (eds), [*Theory on the Edge: Irish Studies and the Politics of Sexual Difference*](https://link.springer.com/book/10.1057/9781137315472).                                            |       **2013** |
 | *Queen’s University Belfast:*                                                                                                                                                                                             |                |
-| Student Union Councillor.                                                                                                                                                                                                 | **2010—2011** |
-| Community, Equality, Diversity Committee Member.                                                                                                                                                                          | **2009—2011** |
-| Student-Staff Consultative Committee Member.                                                                                                                                                                              | **2009—2010** |
+| Student Union Councillor.                                                                                                                                                                                                 | **2010–2011** |
+| Community, Equality, Diversity Committee Member.                                                                                                                                                                          | **2009–2011** |
+| Student-Staff Consultative Committee Member.                                                                                                                                                                              | **2009–2010** |
 
 ## Memberships
 | Organisation | Year(s) |
-|:———————————————-|—————:|
-| [Society for Philosophy and Disability](http://societyforphilosophyanddisability.org/)  | **2020—** |
-| [British Society for Phenomenology](https://www.britishphenomenology.org.uk/)   | **2022—** |
-| [Disabled Academic Collective](https://disabledacademicco.wixsite.com/mysite/) | **2022—** |
+|:-------------------------------|----------:|
+| [Society for Philosophy and Disability](http://societyforphilosophyanddisability.org/)  | **2020–** |
+| [British Society for Phenomenology](https://www.britishphenomenology.org.uk/)   | **2022–** |
+| [Disabled Academic Collective](https://disabledacademicco.wixsite.com/mysite/) | **2022–** |
 
 
 
