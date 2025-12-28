@@ -12,7 +12,7 @@ const eleventyNavigation = {
 ## Current & Recent Employment
 | Role                                                                                                                |            Year(s) |
 | :------------------------------------------------------------------------------------------------------------------ | -----------------: |
-| Part-Time Lecturer (Trinity College Dublin) | **2025-2026** |
+| Part-Time Lecturer (Trinity College Dublin). | **2025-2026** |
 | Editorial Assistant: [International Journal of Philosophical Studies](https://www.tandfonline.com/journals/riph20). |     **2022–2024** |
 | Part-Time (HPAL) Lecturer (University College Dublin).                                                              | **2019**, **2023** |
 | Tutor (University College Dublin).                                                                                  |     **2012–2022** |
