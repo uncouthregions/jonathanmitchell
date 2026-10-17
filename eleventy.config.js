@@ -63,11 +63,6 @@ export default async function(eleventyConfig) {
 		bundleHtmlContentFromSelector: "script",
 	});
 	
-	// Ignore About Page
-	export default function (eleventyConfig) {
-	eleventyConfig.ignores.add("about.md");
-	eleventyConfig.ignores.delete("about.md");
-};
 
 	// Official plugins
 	eleventyConfig.addPlugin(pluginSyntaxHighlight, {
