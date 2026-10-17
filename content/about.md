@@ -5,7 +5,6 @@ const eleventyNavigation = {
 };
 ---
 # About Me
-
 The first strand of my work concerns the reality of disability. Here, I don't mean what disability is, if that implies that disability is a stable entity, or something that can be picked out by a set of necessary and sufficient conditions. Rather, I think that disability happens: dynamically, in time, and via relationships. This holds not just for disability in its practical sense of disrupted capacity, but also for disability as a social category.
 
 Right now, I'm focusing on 3 aspects.
