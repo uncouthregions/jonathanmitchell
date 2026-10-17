@@ -228,8 +228,9 @@ header {
 	text-decoration: underline;
 	text-underline-offset: 0.2em;
 	text-decoration-thickness: 2px;
-	text-decoration-color: var(--color-gray-50);
+	text-decoration-color: #B91C1C;
 }
+/* var(--color-gray-50) */
 
 /* Nav */
 .nav {
