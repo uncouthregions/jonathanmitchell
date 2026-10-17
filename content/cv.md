@@ -4,14 +4,13 @@ const eleventyNavigation = {
 	order: 4
 };
 ---
-# Academic Curriculum Vitae
-**Areas of specialisation**: Continental philosophy, philosophy of disability, disability studies, philosophy of technology, feminist philosophy, actor-network theory, vulnerability, biopolitics, posthumanism.
-
-**Areas of competence**: philosophy of biology, embodied cognition, Critical Theory, bioethics, medical ethics.
+# Academic C.V.
+**Specialisations**: Continental philosophy, philosophy of disability, disability studies, philosophy of technology, feminist philosophy, actor-network theory, vulnerability, biopolitics, posthumanism.
 
 ## Current & Recent Employment
 | Role                                                                                                                |            Year(s) |
 | :------------------------------------------------------------------------------------------------------------------ | -----------------: |
+| Lecturer (Open Learning at Queen’s University Belfast). | **2026** |
 | Part-Time Lecturer (Trinity College Dublin). | **2025-2026** |
 | Editorial Assistant: [International Journal of Philosophical Studies](https://www.tandfonline.com/journals/riph20). |     **2022–2024** |
 | Part-Time (HPAL) Lecturer (University College Dublin).                                                              | **2019**, **2023** |
