@@ -62,6 +62,12 @@ export default async function(eleventyConfig) {
 		// supported selectors: https://www.npmjs.com/package/posthtml-match-helper
 		bundleHtmlContentFromSelector: "script",
 	});
+	
+	// Ignore About Page
+	export default function (eleventyConfig) {
+	eleventyConfig.ignores.add("about.md");
+	eleventyConfig.ignores.delete("about.md");
+};
 
 	// Official plugins
 	eleventyConfig.addPlugin(pluginSyntaxHighlight, {
