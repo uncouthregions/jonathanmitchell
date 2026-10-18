@@ -24,6 +24,13 @@ export default async function(eleventyConfig) {
 		})
 		.addPassthroughCopy("./content/feed/pretty-atom-feed.xsl");
 		
+		
+		const { eleventyImageTransformPlugin } = require("@11ty/eleventy-img");
+
+module.exports = function (eleventyConfig) {
+	eleventyConfig.addPlugin(eleventyImageTransformPlugin);
+};
+
 	// Favicon
 //	const favicon = require("@saiballo/eleventy-plugin-favicon-factory");
 //
