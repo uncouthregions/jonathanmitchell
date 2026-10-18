@@ -109,6 +109,14 @@ a[href] {
 	text-underline-offset: 0.1em;
 }
 
+
+
+  .image-align-left {
+    float: left;
+    margin-right: 10px; /* Add some space between the image and text */
+  }
+
+
 /*a[href]:visited {
 	color: var(--text-color-link-visited);
 }*/
