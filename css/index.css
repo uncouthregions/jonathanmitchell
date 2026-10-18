@@ -113,7 +113,14 @@ a[href] {
   .image-align-left {
     float: left;
     margin-right: 10px; /* Add some space between the image and text */
-    margin-top: 5px;
+    margin-top: 5px; /* Align with top of text */
+    border: 3px solid #333;
+  }
+  
+    .image-align-right {
+    float: right;
+    margin-left: 10px; /* Add some space between the image and text */
+    margin-top: 5px; /* Align with top of text */
     border: 3px solid #333;
   }
 
