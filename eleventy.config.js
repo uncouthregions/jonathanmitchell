@@ -25,9 +25,9 @@ export default async function(eleventyConfig) {
 		.addPassthroughCopy("./content/feed/pretty-atom-feed.xsl");
 		
 		
-		const { eleventyImageTransformPlugin } = require("@11ty/eleventy-img");
+	const { eleventyImageTransformPlugin } = require("@11ty/eleventy-img");
 
-module.exports = function (eleventyConfig) {
+	module.exports = function (eleventyConfig) {
 	eleventyConfig.addPlugin(eleventyImageTransformPlugin);
 };
 
