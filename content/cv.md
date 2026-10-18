@@ -9,12 +9,14 @@ const eleventyNavigation = {
 
 ## Current & Recent Employment
 | Role                                                                                                                |            Year(s) |
-| :------------------------------------------------------------------------------------------------------------------ | -----------------: |
-| Lecturer (Open Learning at Queen’s University Belfast). | **2026** |
+| :- | -: |
+| Lecturer (Queen’s University Belfast Open Learning). | **2026** |
 | Part-Time Lecturer (Trinity College Dublin). | **2025-2026** |
 | Editorial Assistant: [International Journal of Philosophical Studies](https://www.tandfonline.com/journals/riph20). |     **2022–2024** |
-| Part-Time (HPAL) Lecturer (University College Dublin).                                                              | **2019**, **2023** |
+| Part-Time Lecturer (University College Dublin).                                                              | **2019**, **2023** |
 | Tutor (University College Dublin).                                                                                  |     **2012–2022** |
+
+
 ## Education
 | Degree                                                                             |          Year(s) |
 |:---------------------------------------------------------------------------------- | -----------------:|
@@ -26,9 +28,11 @@ const eleventyNavigation = {
 | *Queen’s University Belfast:*                                                       |               |
 | **BA (Hons) in Sociology and Politics (First Class)**                              | **2008–2011** |
 | Dissertation Title: “Live Flesh: Materiality, Subjectivity, Agency”.                     |               |
+
+
 ## Publications
 | Title                                                                                                                                                                                                                                                      |     Year |
-| :---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------:|
+| :- | -:|
 | Dolezal, Luna, Cathrin Fisher & Jonathan Paul Mitchell, 'Disability', in [*Routledge Handbook of Political Phenomenology*](https://www.routledge.com/The-Routledge-Handbook-of-Political-Phenomenology/Herrmann-Thonhauser-Loidolt-Matzner-Baratella/p/book/9781032054094), edited by Steffen Herrmann, Gerhard Thonhauser, Sophie Loidolt, Tobias Matzner, Nils Baratella. London: Routledge, 2024. | **2024** |
 | Käll, Lise Folkmarson, Jonathan Paul Mitchell & Tobias Skiveren. [“Editors' Introduction: Disability and Protheses”](https://tidsskrift.dk/KKF/article/view/127868). *Women, Gender & Research* 31, no. 2 (2021): 5-9.                                                                                            | **2021** |
 | Mitchell, Jonathan Paul. [“Unsafe Ground: Technology, Habit, and the Enactment of Disability”](https://tidsskrift.dk/KKF/article/view/127873). *Women, Gender & Research* 31, no. 2 (2021): 24–39.                                                                                                                | **2021** |
@@ -37,7 +41,7 @@ const eleventyNavigation = {
 
 ## Awards
 | Award                                                                                               |          Year(s) |
-| :--------------------------------------------------------------------------------------------------- | -------------:|
+| :- | -:|
 | Nomination for Dr Máire de Paor Award (best PhD thesis in UCD College of Social Sciences and Law). | **2022** | 
 | Irish Research Council, Government of Ireland Postgraduate Scholarship.                              | **2013–2016** |
 | ESB–Universities Ireland, North/South Postgraduate Scholarship.                                      | **2011–2012** |
@@ -50,17 +54,13 @@ const eleventyNavigation = {
 | Foundation Scholarship.                                                                              |      **2010** |
 | Foundation Scholarship.                                                                              |      **2009** |
 
-<!--## Forthcoming Activities
-| Activity                                                                                                              |          Year(s) |
-|:--------------------------------------------------------------------------------------------------------------------- | -------------:|
- -->
 
-## Conference & Workshop Presentations
-| Title & Event                                                                                                                |     Year(s) |
+## Conference Presentations
+| Title and Event                                                                                                                |     Year(s) |
 | :---------------------------------------------------------------------------------------------------------------------------- | --------:|
 | **Cripping Social Encounters** | **2024** |
 | *Imagining Technologies for Disability Futures Symposium, University of Leeds, 26-27 April 2024.* | |
-| **Invited Respondent** |     **2024** |
+| **Invited Response** |     **2024** |
 | *Vulnerability and the Gift of Death, University of Stockholm, 16-17 April 2024.* | |
 |  **Disability, Vulnerability and Responses to COVID-19**  | **2023** |
 | *The Ethics and Politics of Vulnerable Populations workshop, University College Dublin, 10 May 2023.* | |
@@ -89,23 +89,16 @@ const eleventyNavigation = {
 
 ## Teaching Experience
 | Position                                                                                              |  Year(s) |
-| :---------------------------------------------------------------------------------------------------- | -------: |
-| **Part-Time (HPAL) Lecturer (University College Dublin) 2019, 2023**                                  |          |
-| Guest Lecture 'What Can a Body Do?' on Philosophy of Disability (Level 2 Module 'Mind, Body & World') | **2023** |
-| Guest Lecture on Phenomenology and Disability (Level 2 module ‘Phenomenology and Existentialism’)     | **2019** |
-| **Tutor (University College Dublin)**                                                                 |          |
-| ‘Philosophy and Literature’ (Level 2)                                                                 | **2019** |
-| ‘Phenomenology and Existentialism’ (Level 2)                                                          | **2018** |
-| ‘Philosophy and Literature’ (Level 2)                                                                 | **2017** |
-| ‘Feminist Legal Theory’ (Level 2)                                                                     | **2016** |
-| ‘Philosophy of Interpretation’ (Level 3)                                                              | **2014** |
-| ‘Rationalism & Empiricism’ (Level 2)                                                                  | **2014** |
-| ‘Introduction to Greek Philosophy’ (Level 1)                                                          | **2013** |
-| ‘Introduction to Arts’ (Level 1)                                                                      | **2012** |
+| :- | -: |
+| **Part-Time Lecturer (University College Dublin)**                                  |          |
+| Guest Lecture 'What Can a Body Do?' on Philosophy of Disability | **2023** |
+| Guest Lecture on Phenomenology and Disability     | **2019** |
+| **Tutor (University College Dublin)**                                                                 |      |
+| Philosophy and Literature, Phenomenology and Existentialism, Feminist Legal Theory, Philosophy of Interpretation, Rationalism and Empiricism, Introduction to Greek Philosophy, Introduction to Arts                                                                 | **2012–2019** |                                                           
 
-## Other Academic Experience & Citizenship
+## Other Academic Experience and Citizenship
 | Activity                                                                                                                                                                                                                  |        Year(s) |
-| :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | -------------: |
+| :- | -: |
 | [Minorities and Philosophy (UCD Chapter)](https://www.ucd.ie/philosophy/study/minoritiesandphilosophymapdublinchapter/): Committee Member & Accessibility Co-ordinator.                                                   | **2021–2022** |
 | Co-organiser: [*Imagining Technologies for Disability Futures*](https://itdfproject.org/) panel, 'Phenomenology, Disability, and Technology', at 2022 British Society for Phenomenology conference, University of Exeter. |       **2022** |
 | Co-editor: special issue of *Women, Gender & Research*, [‘Interrogating Disability and Prostheses’](https://tidsskrift.dk/KKF/issue/view/8124).                                                                           | **2019--2021** |
@@ -122,11 +115,10 @@ const eleventyNavigation = {
 
 ## Memberships
 | Organisation | Year(s) |
-|:-------------------------------|----------:|
+|:-|-:|
 | [Society for Philosophy and Disability](http://societyforphilosophyanddisability.org/)  | **2020–** |
 | [British Society for Phenomenology](https://www.britishphenomenology.org.uk/)   | **2022–** |
 | [Disabled Academic Collective](https://disabledacademicco.wixsite.com/mysite/) | **2022–** |
-
 
 
 ## Download
