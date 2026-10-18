@@ -108,10 +108,7 @@ const eleventyNavigation = {
 | Conference assistant: *The Future of the Body*, Long Room Hub, Trinity College, Dublin.                                                                                                                                   |       **2014** |
 | Alumnus judge: [*Undergraduate Awards*](https://undergraduateawards.com/).                                                                                                                                                |       **2013** |
 | Indexer: Giffney, N. & Shildrick, M. (eds), [*Theory on the Edge: Irish Studies and the Politics of Sexual Difference*](https://link.springer.com/book/10.1057/9781137315472).                                            |       **2013** |
-| *Queen’s University Belfast:*                                                                                                                                                                                             |                |
-| Student Union Councillor.                                                                                                                                                                                                 | **2010–2011** |
-| Community, Equality, Diversity Committee Member.                                                                                                                                                                          | **2009–2011** |
-| Student-Staff Consultative Committee Member.                                                                                                                                                                              | **2009–2010** |
+
 
 ## Memberships
 | Organisation | Year(s) |
