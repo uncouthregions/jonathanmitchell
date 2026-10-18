@@ -166,6 +166,35 @@ export const config = {
 		data: "../_data",          // default: "_data" (`input` relative)
 		output: "_site"
 	},
+	
+	
+	const Image = require("@11ty/eleventy-img");
+
+eleventyConfig.addAsyncShortcode(
+  "image",
+  async function (src, alt, sizes = "100vw") {
+    if (!alt) {
+      throw new Error(`Missing \`alt\` text for image: ${src}`);
+    }
+
+    return Image(src, {
+      widths: [400, 800, 1200],
+      formats: ["avif", "webp", "jpeg"],
+      outputDir: "./_site/images/",
+      urlPath: "/images/",
+      returnType: "html",
+      htmlOptions: {
+        imgAttributes: {
+          alt,
+          sizes,
+          loading: "lazy",
+          decoding: "async",
+        },
+      },
+    });
+  }
+);
+
 
 	// -----------------------------------------------------------------
 	// Optional items:
