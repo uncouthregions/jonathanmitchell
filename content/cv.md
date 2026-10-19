@@ -11,7 +11,6 @@ const eleventyNavigation = {
 | Role                                                                                                                |            Year(s) |
 | :- | -: |
 | Lecturer (Queen’s University Belfast Open Learning). | **2026** |
-| Part-Time Lecturer (Trinity College Dublin). | **2025-2026** |
 | Editorial Assistant: [International Journal of Philosophical Studies](https://www.tandfonline.com/journals/riph20). |     **2022–2024** |
 
 ## Education
@@ -82,7 +81,10 @@ const eleventyNavigation = {
 ## Teaching Experience
 | Position                                                                                              |  Year(s) |
 | :- | -: |
+| **Part-Time Lecturer (Trinity College Dublin)** |  |
+| Convenor and lecturer of ‘Inclusive Disability’ Undergraduate Social Work Module |**2025-2026**| 
 | **Part-Time Lecturer (University College Dublin)**                                  |          |
+| Co-convenor of ‘Mind Body World’ Undergraduate Philosophy Module | **2024** |
 | Guest Lecture 'What Can a Body Do?' on Philosophy of Disability | **2023** |
 | Guest Lecture on Phenomenology and Disability     | **2019** |
 | **Tutor (University College Dublin)**                                                                 |      |
@@ -91,7 +93,7 @@ const eleventyNavigation = {
 ## Other Academic Experience and Citizenship
 | Activity                                                                                                                                                                                                                  |        Year(s) |
 | :- | -: |
-| [Minorities and Philosophy (UCD Chapter)](https://www.ucd.ie/philosophy/study/minoritiesandphilosophymapdublinchapter/): Committee Member & Accessibility Co-ordinator.                                                   | **2021–2022** |
+| [Minorities and Philosophy (UCD Chapter)](https://www.ucd.ie/philosophy/study/minoritiesandphilosophymapdublinchapter/): Committee Member & Accessibility Coordinator.                                                   | **2021–2022** |
 | Co-organiser: [*Imagining Technologies for Disability Futures*](https://itdfproject.org/) panel, 'Phenomenology, Disability, and Technology', at 2022 British Society for Phenomenology conference, University of Exeter. |       **2022** |
 | Co-editor: special issue of *Women, Gender & Research*, [‘Interrogating Disability and Prostheses’](https://tidsskrift.dk/KKF/issue/view/8124).                                                                           | **2019--2021** |
 | Conference assistant: [*The Inhuman Gaze*](https://theinhumangaze.com/), Centre Culturel Irlandais, Paris.                                                                                                                |       **2018** |
