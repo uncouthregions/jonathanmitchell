@@ -11,7 +11,7 @@ const eleventyNavigation = {
 | Role                                                                                                                |            Year(s) |
 | :- | -: |
 | **Lecturer (Queen’s University Belfast Open Learning)**. |  |
-| Representing Disability from Ancient to Contemporary Cultures | **2026** |
+| Representing Disability from Ancient to Contemporary Cultures. | **2026** |
 
 ## Education
 | Degree                                                                             |          Year(s) |
