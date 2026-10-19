@@ -1,6 +1,6 @@
 ---js
 const eleventyNavigation = {
-	key: "C.V.",
+	key: “Academic C.V.",
 	order: 4
 };
 ---
@@ -13,8 +13,6 @@ const eleventyNavigation = {
 | Lecturer (Queen’s University Belfast Open Learning). | **2026** |
 | Part-Time Lecturer (Trinity College Dublin). | **2025-2026** |
 | Editorial Assistant: [International Journal of Philosophical Studies](https://www.tandfonline.com/journals/riph20). |     **2022–2024** |
-| Part-Time Lecturer (University College Dublin).                                                              | **2019**, **2023** |
-| Tutor (University College Dublin).                                                                                  |     **2012–2022** |
 
 
 ## Education
