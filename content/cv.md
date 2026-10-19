@@ -7,11 +7,10 @@ const eleventyNavigation = {
 # Academic C.V.
 **Specialisations**: Continental philosophy, philosophy of disability, disability studies, philosophy of technology, feminist philosophy, actor-network theory, vulnerability, biopolitics, posthumanism.
 
-## Current & Recent Employment
+## Current and Recent Employment
 | Role                                                                                                                |            Year(s) |
 | :- | -: |
 | Lecturer (Queen’s University Belfast Open Learning). | **2026** |
-| Editorial Assistant: [International Journal of Philosophical Studies](https://www.tandfonline.com/journals/riph20). |     **2022–2024** |
 
 ## Education
 | Degree                                                                             |          Year(s) |
@@ -93,6 +92,7 @@ const eleventyNavigation = {
 ## Other Academic Experience and Citizenship
 | Activity                                                                                                                                                                                                                  |        Year(s) |
 | :- | -: |
+| Editorial Assistant: [International Journal of Philosophical Studies](https://www.tandfonline.com/journals/riph20). |     **2022–2024** |
 | [Minorities and Philosophy (UCD Chapter)](https://www.ucd.ie/philosophy/study/minoritiesandphilosophymapdublinchapter/): Committee Member & Accessibility Coordinator.                                                   | **2021–2022** |
 | Co-organiser: [*Imagining Technologies for Disability Futures*](https://itdfproject.org/) panel, 'Phenomenology, Disability, and Technology', at 2022 British Society for Phenomenology conference, University of Exeter. |       **2022** |
 | Co-editor: special issue of *Women, Gender & Research*, [‘Interrogating Disability and Prostheses’](https://tidsskrift.dk/KKF/issue/view/8124).                                                                           | **2019--2021** |
