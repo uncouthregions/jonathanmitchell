@@ -26,7 +26,6 @@ const eleventyNavigation = {
 | **BA (Hons) in Sociology and Politics (First Class)**                              | **2008–2011** |
 | Dissertation Title: “Live Flesh: Materiality, Subjectivity, Agency”.                     |               |
 
-
 ## Publications
 | Title                                                                                                                                                                                                                                                      |     Year |
 | :- | -:|
@@ -44,13 +43,9 @@ const eleventyNavigation = {
 | ESB–Universities Ireland, North/South Postgraduate Scholarship.                                      | **2011–2012** |
 | Undergraduate Awards, ‘Social Studies' category: Overall Winner.                                     |      **2011** |
 | Undergraduate Awards, 'Politics and International Relations' category: Highly Commended (runner-up). |      **2011** |
-| *Queen’s University Belfast, School of Sociology, Social Policy and Social Work:*                    |               |
+| *Queen’s University Belfast:*                    |               |
 | Eithne McLaughlin Prize (best work on disability).                                                  |      **2011** |
-| *Queen’s University Belfast, School of Politics, International Studies and Philosophy:*              |               |
 | David Mulholland Prize (best performance in dissertation).                                           |      **2011** |
-| Foundation Scholarship.                                                                              |      **2010** |
-| Foundation Scholarship.                                                                              |      **2009** |
-
 
 ## Conference Presentations
 | Title and Event                                                                                                                |     Year(s) |
