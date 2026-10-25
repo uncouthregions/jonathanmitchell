@@ -51,6 +51,9 @@ export default async function(eleventyConfig) {
 		bundleHtmlContentFromSelector: "script",
 	});
 	
+	// Put robots.txt in root
+eleventyConfig.addPassthroughCopy({ 'content/robots.txt': '/robots.txt' });
+	
 
 	// Official plugins
 	eleventyConfig.addPlugin(pluginSyntaxHighlight, {
@@ -77,7 +80,7 @@ export default async function(eleventyConfig) {
 		metadata: {
 			language: "en",
 			title: "Dr Jonathan Paul Mitchell",
-			subtitle: "Homepage and blog.",
+			subtitle: "Homepage",
 			base: "https://jonathanmitchell.me/",
 			author: {
 				name: "Jonathan Mitchell"
