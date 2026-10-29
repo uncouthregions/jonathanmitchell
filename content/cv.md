@@ -5,12 +5,12 @@ const eleventyNavigation = {
 };
 ---
 # Academic C.V.
-**Specialisations**: Continental philosophy, philosophy of disability, disability studies, philosophy of technology, feminist philosophy, actor-network theory, vulnerability, biopolitics, posthumanism.
+**Specialisations**: Continental philosophy, philosophy of disability, critical disability studies, philosophy of technology, feminist philosophy, vulnerability, biopolitics, posthumanism, monstrosity.
 
 ## Current and Recent Employment
 | Role                                                                                                                |            Year(s) |
 | :- | -: |
-| **Lecturer (Queen’s University Belfast Open Learning)**. |  |
+| **Instructor (Queen’s University Belfast Open Learning)**. |  |
 | Representing Disability from Ancient to Contemporary Cultures. | **2026** |
 
 ## Education
