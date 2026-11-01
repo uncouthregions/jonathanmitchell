@@ -7,13 +7,13 @@ const eleventyNavigation = {
 # Academic C.V.
 **Specialisations**: Continental philosophy, philosophy of disability, critical disability studies, philosophy of technology, feminist philosophy, vulnerability, biopolitics, posthumanism, monstrosity.
 ## Current and Recent Employment
-| **Role**                                                                                                             | **Year(s)** |
-| :- | -: |
-| **Instructor (Queen’s University Belfast Open Learning)**. |  |
+|   |   |
+|:--|--:|
+| **Instructor (Queen’s University Belfast Open Learning)**. |   |
 | Representing Disability from Ancient to Contemporary Cultures. | **2026** |
 
 ## Education
-| **Degree** | **Year(s)** |
+|   |   |
 |:--|--:|
 | *University College Dublin:* |   |
 | **PhD in Philosophy (awarded in 2022)** | **2013–2021** |
@@ -23,16 +23,16 @@ const eleventyNavigation = {
 | *Queen’s University Belfast:* |   | **BA (Hons) in Sociology and Politics (First Class)** | **2008–2011** |
 | Dissertation Title: “Live Flesh: Materiality, Subjectivity, Agency”. |   |
 ## Publications
-| **Title**                                                                                                                                                                          | **Year** |
-| :- | -:|
+|   |   |
+|:--|--:|
 | Dolezal, Luna, Cathrin Fisher & Jonathan Paul Mitchell, 'Disability', in [*Routledge Handbook of Political Phenomenology*](https://www.routledge.com/The-Routledge-Handbook-of-Political-Phenomenology/Herrmann-Thonhauser-Loidolt-Matzner-Baratella/p/book/9781032054094), edited by Steffen Herrmann, Gerhard Thonhauser, Sophie Loidolt, Tobias Matzner, Nils Baratella. London: Routledge, 2024. | **2024** |
-| Käll, Lise Folkmarson, Jonathan Paul Mitchell & Tobias Skiveren. [“Editors' Introduction: Disability and Protheses”](https://tidsskrift.dk/KKF/article/view/127868). *Women, Gender & Research* 31, no. 2 (2021): 5-9.                                                                                            | **2021** |
-| Mitchell, Jonathan Paul. [“Unsafe Ground: Technology, Habit, and the Enactment of Disability”](https://tidsskrift.dk/KKF/article/view/127873). *Women, Gender & Research* 31, no. 2 (2021): 24–39.                                                                                                                | **2021** |
+| Käll, Lise Folkmarson, Jonathan Paul Mitchell & Tobias Skiveren. [“Editors' Introduction: Disability and Protheses”](https://tidsskrift.dk/KKF/article/view/127868). *Women, Gender & Research* 31, no. 2 (2021): 5-9. | **2021** |
+| Mitchell, Jonathan Paul. [“Unsafe Ground: Technology, Habit, and the Enactment of Disability”](https://tidsskrift.dk/KKF/article/view/127873). *Women, Gender & Research* 31, no. 2 (2021): 24–39. | **2021** |
 | Mitchell, Jonathan Paul. “Disability and the Inhuman”, in [*Perception and the Inhuman Gaze: Perspectives from Philosophy, Phenomenology and the Sciences*](https://www.routledge.com/Perception-and-the-Inhuman-Gaze-Perspectives-from-Philosophy-Phenomenology/Daly-Cummins-Jardine-Moran/p/book/9780367405625), edited by Anya Daly, James Jardine, Fred Cummins, and Dermot Moran, 298-307. London: Routledge, 2020. | **2020** |
-| Mitchell, Jonathan. [“‘Race’, Nation and Belonging in Ireland”](https://arrow.tudublin.ie/ijass/vol11/iss1/1/). *Irish Journal of Applied Social Studies* 11, no. 1 (2011): 4-13.                                                                                                                    | **2011** |
+| Mitchell, Jonathan. [“‘Race’, Nation and Belonging in Ireland”](https://arrow.tudublin.ie/ijass/vol11/iss1/1/). *Irish Journal of Applied Social Studies* 11, no. 1 (2011): 4-13. | **2011** |
 
 ## Awards
-| Award | Year(s) |
+|   |   |
 |:--|--:|
 | Nomination for Dr Máire de Paor Award (best PhD thesis in UCD College of Social Sciences and Law). | **2022** |
 | Irish Research Council, Government of Ireland Postgraduate Scholarship. | **2013–2016** |
@@ -43,7 +43,7 @@ const eleventyNavigation = {
 | Eithne McLaughlin Prize (best work on disability). | **2011** |
 | David Mulholland Prize (best performance in dissertation). | **2011** |
 ## Conference Presentations
-| Title and Event | Year(s) |
+|   |   |
 |:--|--:|
 | **Cripping Social Encounters** | **2024** |
 | *Imagining Technologies for Disability Futures Symposium, University of Leeds, 26-27 April 2024.* |   |
@@ -74,7 +74,7 @@ const eleventyNavigation = {
 | **Bioethics Without a Concept of 'Normalcy'** | **2015** |
 | *‘Conceptualizing Disability as a Public Health Issue’, Fondation Brocher, Geneva, Switzerland, 26 January 2015*. |   |
 ## Teaching Experience
-| **Position** | **Year(s)** |
+|   |   |
 |:--|--:|
 | **Part-Time Lecturer (Trinity College Dublin)** |   |
 | Convenor and lecturer of ‘Inclusive Disability’ Undergraduate Social Work Module | **2025-2026** |
@@ -86,23 +86,21 @@ const eleventyNavigation = {
 | Philosophy and Literature, Phenomenology and Existentialism, Feminist Legal Theory, Philosophy of Interpretation, Rationalism and Empiricism, Introduction to Greek Philosophy, Introduction to Arts | **2012–2019** |
 
 ## Other Academic Experience and Citizenship
-| **Activity**                                                                                                                                                                                                                  |  **Year(s)** |
-| :- | -: |
-| Editorial Assistant: [International Journal of Philosophical Studies](https://www.tandfonline.com/journals/riph20). |  **2022–2024** |
-| [Minorities and Philosophy (UCD Chapter)](https://www.ucd.ie/philosophy/study/minoritiesandphilosophymapdublinchapter/): Committee Member & Accessibility Coordinator.                                                   | **2021–2022** |
-| Co-organiser: [*Imagining Technologies for Disability Futures*](https://itdfproject.org/) panel, 'Phenomenology, Disability, and Technology', at 2022 British Society for Phenomenology conference, University of Exeter. |       **2022** |
-| Co-editor: special issue of *Women, Gender & Research*, [‘Interrogating Disability and Prostheses’](https://tidsskrift.dk/KKF/issue/view/8124).                                                                           | **2019--2021** |
-| Conference assistant: [*The Inhuman Gaze*](https://theinhumangaze.com/), Centre Culturel Irlandais, Paris.                                                                                                                |  **2018** |
-| Peer reviewer: *Hypatia*.                                                                                                                                                                                                 |  **2016** |
-| Peer reviewer: *Somatechnics*.                                                                                                                                                                                            |  **2014** |
-| Conference assistant: *The Future of the Body*, Long Room Hub, Trinity College, Dublin.                                                                                                                                   |  **2014** |
-| Alumnus judge: [*Undergraduate Awards*](https://undergraduateawards.com/).                                                                                                                                                |  **2013** |
-| Indexer: Giffney, N. & Shildrick, M. (eds), [*Theory on the Edge: Irish Studies and the Politics of Sexual Difference*](https://link.springer.com/book/10.1057/9781137315472).                                            |  **2013** |
-
-
+|   |   |
+|:--|--:|
+| Editorial Assistant: [International Journal of Philosophical Studies](https://www.tandfonline.com/journals/riph20). | **2022–2024** |
+| [Minorities and Philosophy (UCD Chapter)](https://www.ucd.ie/philosophy/study/minoritiesandphilosophymapdublinchapter/): Committee Member & Accessibility Coordinator. | **2021–2022** |
+| Co-organiser: [*Imagining Technologies for Disability Futures*](https://itdfproject.org/) panel, 'Phenomenology, Disability, and Technology', at 2022 British Society for Phenomenology conference, University of Exeter. | **2022** |
+| Co-editor: special issue of *Women, Gender & Research*, [‘Interrogating Disability and Prostheses’](https://tidsskrift.dk/KKF/issue/view/8124). | **2019--2021** |
+| Conference assistant: [*The Inhuman Gaze*](https://theinhumangaze.com/), Centre Culturel Irlandais, Paris. | **2018** |
+| Peer reviewer: *Hypatia*. | **2016** |
+| Peer reviewer: *Somatechnics*. | **2014** |
+| Conference assistant: *The Future of the Body*, Long Room Hub, Trinity College, Dublin. | **2014** |
+| Alumnus judge: [*Undergraduate Awards*](https://undergraduateawards.com/). | **2013** |
+| Indexer: Giffney, N. & Shildrick, M. (eds), [*Theory on the Edge: Irish Studies and the Politics of Sexual Difference*](https://link.springer.com/book/10.1057/9781137315472). | **2013** |
 ## Memberships
-| **Organisation** | **Year(s)** |
-|:-|-:|
+|   |   |
+|:--|--:|
 | [Society for Philosophy and Disability](http://societyforphilosophyanddisability.org/) | **2020–** |
 | [British Society for Phenomenology](https://www.britishphenomenology.org.uk/) | **2022–** |
 | [Disabled Academic Collective](https://disabledacademicco.wixsite.com/mysite/) | **2022–** |
